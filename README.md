@@ -2,4 +2,4 @@
 
 yeah!
 
-mi primera contribucion local para github
+mi primera contribucion local pa github
